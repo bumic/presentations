@@ -1,2 +1,3 @@
-# talks
-Presentations etc.
+# BUMIC Presentations
+
+Repository containing our presentations
